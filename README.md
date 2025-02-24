@@ -31,7 +31,7 @@ Divorced Passengers are more likely to accept coupons with they are with partner
 
 
 # Recommendations
-Based on the observations, Amazon can optimize its coupon distribution strategy to increase acceptance rates by targeting the right customers in the right situations.
+Based on the observations, I propose the following recommendations to optimize coupon distribution strategy to increase acceptance rates by targeting the right customers in the right situations.
 
 ## 1. Focus on High-Acceptance Restaurant Types:
 Prioritize distributing coupons for Carry Out & Takeaway, Coffee Houses, and Cheap Restaurants (<$20), as they have the highest acceptance rates.
@@ -66,9 +66,9 @@ Passengers with friends accept coupons at the highest rate—consider group prom
 Widowed passengers are less likely to accept coupons with partners—target them with solo-friendly deals.
 Divorced passengers prefer coupons when with partners—personalized deals for this demographic may increase engagement.
 
-## 8. Final Strategy: AI-Driven Personalization
+## 8. AI-Driven Personalization
 Use machine learning models to analyze passenger behavior and dynamically adjust coupon type, timing, and expiration.
 Implement real-time targeting—send bar coupons to groups of friends in the evening, restaurant coupons to couples at dinnertime, and takeaway coupons when it's raining.
-Introduce A/B testing to continuously refine coupon targeting strategies and maximize redemption rates.
+
 
 
